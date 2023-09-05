@@ -1,0 +1,17 @@
+{
+  "name": "smallville",
+  "version": "1.0.0",
+  "description": "## Generative Agents for video games Generative agents are virtual characters that can store memories and dynamically react to their environment. Using LLM models such as ChatGPT agents are able to observe their surroundings, store memories, and react to state changes in the world",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "smallville": "^1.0.3"
+  }
+}
